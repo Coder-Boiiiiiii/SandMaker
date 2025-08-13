@@ -1,0 +1,13 @@
+﻿  UiManager.cpp
+C:\Users\Sarem\Desktop\Programming Stuff\C Projects\SandSim\SandMaker\SandMaker\UiManager.cpp(20,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sarem\Desktop\Programming Stuff\C Projects\SandSim\SandMaker\SandMaker\UiManager.cpp(51,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sarem\Desktop\Programming Stuff\C Projects\SandSim\SandMaker\SandMaker\UiManager.cpp(492,35): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+C:\Users\Sarem\Desktop\Programming Stuff\C Projects\SandSim\SandMaker\SandMaker\main.cpp(150,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sarem\Desktop\Programming Stuff\C Projects\SandSim\SandMaker\SandMaker\main.cpp(160,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  0 of 845 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SandMaker.vcxproj -> C:\Users\Sarem\Desktop\Programming Stuff\C Projects\SandSim\SandMaker\x64\Release\SandMaker.exe

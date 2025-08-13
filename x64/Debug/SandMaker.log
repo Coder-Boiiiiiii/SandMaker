@@ -1,0 +1,5 @@
+﻿  UiManager.cpp
+C:\Users\Sarem\Desktop\Programming Stuff\C Projects\SandSim\SandMaker\SandMaker\UiManager.cpp(20,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sarem\Desktop\Programming Stuff\C Projects\SandSim\SandMaker\SandMaker\UiManager.cpp(51,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sarem\Desktop\Programming Stuff\C Projects\SandSim\SandMaker\SandMaker\UiManager.cpp(492,35): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  SandMaker.vcxproj -> C:\Users\Sarem\Desktop\Programming Stuff\C Projects\SandSim\SandMaker\x64\Debug\SandMaker.exe
