@@ -216,8 +216,8 @@ int main(int argc, char* argv[]) {
         std::cout << "TTF_Init Error: " << TTF_GetError() << std::endl;
     }
 
-    TTF_Font* DefaultFont = TTF_OpenFont("Ithaca-LVB75.ttf", 30);
-    TTF_Font* HeadingFont = TTF_OpenFont("Ithaca-LVB75.ttf", 50);
+    TTF_Font* DefaultFont = TTF_OpenFont("Assets/Ithaca-LVB75.ttf", 30);
+    TTF_Font* HeadingFont = TTF_OpenFont("Assets/Ithaca-LVB75.ttf", 50);
 
     if (!DefaultFont || !HeadingFont) {
         std::cout << "Font Load Error: " << TTF_GetError() << std::endl;
